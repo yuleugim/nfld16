@@ -1,0 +1,14 @@
+{
+  "name": "nfld16",
+  "version": "1.0.0",
+  "description": "Randomly selects a team from each week",
+  "main": "index.js",
+  "author": "Miguel Uy <yuleugim@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
