@@ -1,5 +1,5 @@
 # nfld16
-A script for selecting a random team from the current NFL season's week of matches Edit Add topics
+A script for selecting a random team from the current NFL season's week of matches
 
 ## Usage
 - For fellow yarn users:
